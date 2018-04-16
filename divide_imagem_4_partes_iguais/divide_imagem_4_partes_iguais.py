@@ -4,7 +4,7 @@ import cv2
 import os
 
 ## COLETA ARQUIVO
-nome_arquivo = 'cores.jpg'
+nome_arquivo = 'CMYK.png'
 diretorio = nome_arquivo[:-4]
 
 ## ARMAZENA
